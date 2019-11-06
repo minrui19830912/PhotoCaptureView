@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoCaptureViewer</string>
+    <string name="permission_request_ind">Please grant relevant permission</string>
+    <string name="change_name">Rename photo</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename_success">Rename file success</string>
+    <string name="rename_fail">Rename file fail</string>
+    <string name="all_images">All images</string>
+</resources>
